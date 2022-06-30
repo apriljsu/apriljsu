@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a full stack dev in training at General Assembly. I am expected to graduate in Nov 2022! I love learning new skills and always ask a lot of whys. I have experience in finance, data analytics and coding.
 <!--
 **apriljsu/apriljsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
